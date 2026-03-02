@@ -1,5 +1,5 @@
 # Self-Project
-🤖 AI-Powered Resume Analyzer
+# 🤖 AI-Powered Resume Analyzer
 
 An intelligent web-based application that evaluates resumes against job descriptions using Natural Language Processing (NLP) and Machine Learning techniques.
 
